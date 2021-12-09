@@ -5,4 +5,4 @@ communicate with their father, and named pipe to communicate with eachother.
 
 Task: Given a number of huge text files, you are to calculate the number of each different word in all files.
 
-A sample output for the *testcases* forlder is also provided. 
+A sample output for the *testcases* folder is also provided. 
