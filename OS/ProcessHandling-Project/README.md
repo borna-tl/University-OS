@@ -9,4 +9,4 @@ A sample output for the *testcases* folder is also provided.
 
 <h2> to Run </h2>
 In a terminal window simply run "make" and then "./main.out". You will notice that a number of named pipes will be generated along with the answer
-which is stored in "output.csv" file. You can delete the unnecessary files in the end with "make clean" commmand.
+which will be stored in "output.csv" file. You can delete the unnecessary files in the end with "make clean" commmand.
